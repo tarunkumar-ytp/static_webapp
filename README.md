@@ -1,1 +1,1 @@
-# static_webapp
+# enssi-app-new-ui

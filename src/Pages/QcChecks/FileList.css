@@ -1,0 +1,68 @@
+#singleCard {
+/* 
+    background: #e7f8f9 !important;
+    border-radius: 25px;
+    margin-bottom: 5px !important;
+    width: 97%;
+    margin: auto; */
+    box-shadow: 2px 8px 8px 0 rgba(50, 50, 50, 0.5);
+    height: 87vh;
+    margin-top: 2.5vh;
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+#qccard {
+    box-shadow: 2px 8px 8px 0 rgba(50, 50, 50, 0.5);
+    height: 87vh;
+    margin-top: 2.5vh;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+/* #singleCard  :hover {
+
+    background: #7adddd !important;
+    border-radius: 25px;
+} */
+.staging_area_list {
+    height: 82vh;
+    overflow-y: scroll;
+}
+.files_tableContainer {
+    overflow-y: auto;
+    height: 80vh !important;
+    width: 96%;
+    margin: 15px auto;
+}
+.files_tableContainer::-webkit-scrollbar-track {
+    background-color:#f5f5f5 ;
+  }
+  .files_tableContainer::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  .files_tableContainer::-webkit-scrollbar-thumb {
+    
+    background-color: #2BA0C4;
+  }
+#singleRow {
+    display: flex;
+}
+
+#filename{
+    margin-left: 30px;
+}
+
+.qcbutton {
+    background-color: #2BA0C4 !important;
+    color: white !important;
+    border-radius: 10px;
+    margin-top: 5px !important;
+}
+
+
+#singleCol{
+    margin-left: auto;
+    margin-right: 40px;
+  
+}
